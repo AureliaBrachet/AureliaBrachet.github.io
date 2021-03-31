@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@500&family=Lora&family=Quicksand:wght@300&display=swap');
+
+body{
+  margin: 180px;
+}
+
+.hero{
+  height: 70vh;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://images.unsplash.com/photo-1534258770914-022a9ce4e0ed?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+  background-size: cover;
+  border-radius: 180px;
+  opacity: 0.8;
+}
+
+img{
+  
+}
+
+h1{
+  background-color: #00CC99;
+  font-family: 'Cormorant Unicase', serif;
+  text-align: justify;
+  font-size: xxx-large;
+ }
+
+h2{
+  color: #00CC99;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  font-size: x-large;
+}
+
+h3{
+  font-family: 'Quicksand', sans-serif;
+  color: #00CC99;
+}
+
+p{
+  font-family: 'Lora', serif;
+}
+
+.btn{
+  background-color: #00CC99;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 20px;
+  display: inline-block;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 50%;
+  display: flex;
+}
+
+.card {
+  margin: 50px 0px;
+  padding: 30px;
+  border-radius: 16px;
+  background-color: #DCDCDC;
+  
+}
